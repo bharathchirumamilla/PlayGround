@@ -1,0 +1,29 @@
+.component-container{
+  margin: 20px;
+  width: 100%;
+  height: 400px;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+}
+
+.component-label{
+  text-align: center;
+  width: 100%;
+  font-size: inherit;
+  font-weight: bolder;
+  color: royalblue;
+}
+
+
+.component-list{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.component-preview{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}

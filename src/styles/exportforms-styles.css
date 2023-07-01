@@ -1,0 +1,5 @@
+.tag{
+  font-weight:600;font-size:14px;padding:8px 13px;border-radius:8px;margin:8px;border:2px solid transparent}
+
+  .tag:hover{border:2px solid}
+  .tags{margin:24px -8px 0}

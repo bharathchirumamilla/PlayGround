@@ -1,0 +1,27 @@
+.App {
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+
+.app-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  align-items: first baseline;
+}
+
+.container1 > div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
