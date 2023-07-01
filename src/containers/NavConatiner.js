@@ -17,7 +17,7 @@ export const NavContainer = () => {
   <div className="nav-wrapper">
     
     <div className="logo">
-      <a href="/basic"><img src="https://7125727.fs1.hubspotusercontent-na1.net/hub/7125727/hubfs/chat-icon%20(1).webp?width=80&height=80" alt="icon" style={{height: '60px'}}/></a>
+      <a href="/basic"><img src="" alt="icon" style={{height: '60px'}}/></a>
     </div>
     <ul id="menu">
       <li><Link to="basic"  onClick={() => showpageType('basic')}>Basic Component</Link></li>
